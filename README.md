@@ -1,0 +1,2 @@
+O Repositório "IHD" foi criado no âmbito da disciplina de Introdução às Humanidades Digitais, que visa estudar a organização e representação do conhecimento através de ferramentas digitais. Neste repositório, é posssível encontrar três pastas distintas onde se encontram os três projetos desenvolvidos ao longo do semestre, este incluem uma Nuvem de Palavras, criada através do WordArt, um mapa mental, criado em Markmap, e ainda uma linha de tempo, criada em Timeline JS.
+Carolina Amorousso
